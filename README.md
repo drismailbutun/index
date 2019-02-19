@@ -1,21 +1,12 @@
 ## Welcome to Dr. Ismail Butun's Page!
 
-For full articles list:[Google Scholar](https://scholar.google.com/citations?hl=en&user=aF8AJScAAAAJ&view_op=list_works)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For full articles list (visit): [Google Scholar](https://scholar.google.com/citations?hl=en&user=aF8AJScAAAAJ&view_op=list_works)
 
-Research Gate:
+To download articles (visit): [Research Gate](https://www.researchgate.net/profile/Ismail_Butun)
 
-LinkedIn:
-
-
-
-You can use the [editor on GitHub](https://github.com/drismailbutun/trial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For professional link (visit): [LinkedIn](https://www.linkedin.com/in/ismailbutun/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
